@@ -23,3 +23,7 @@ Where `deno_io::Stdio` implements `Default`, and can therefore be provided as
 
 - **deno_web**: Provided by the `deno_web` crate
 - **deno_tty**: Provided in `deno/runtime/ops/tty.rs`
+
+## Development
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for repository checks and pull request guidance.
